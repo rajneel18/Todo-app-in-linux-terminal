@@ -18,8 +18,7 @@ Requirements
 Installation
 
 1. Clone or download the app to your preferred location:
-   git clone https://github.com/yourusername/todo-app.git
-
+   git clone https://github.com/rajneel18/Todo-app-in-linux-terminal.git
 2. Navigate to the app directory:
    cd /path/to/your/todo_app
 
